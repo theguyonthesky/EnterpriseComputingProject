@@ -1,0 +1,12 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.query-form {
+    margin-top: 50px;
+}
+.query-input {
+    width: 100%;
+    height: 300px;
+}
+
